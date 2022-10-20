@@ -9,11 +9,8 @@ Hi, I'm Alberto, a software engineer who is very fond in the technology world! A
 - 🤔 Always exploring new technologies and solutions to improve both my coding skills and critical thinking
 - 🎓 I have a degree of Computer Science & Engineering
 - 🌟 Currently working as a junior front-end developer
-- 🌱 Everything is code. My hobbies also includes coding like developing games!
-
-### Top langs
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avi-ss&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+- 🕹️ My hobbies also includes coding like developing games! ([Psst! Check out my itch.io](https://avi-ss.itch.io/))
+- 🌱 Everything is code. 
 
 ### 📫 You can always reach me here!
 
