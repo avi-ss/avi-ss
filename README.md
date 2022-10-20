@@ -9,6 +9,9 @@ Hi, I'm Alberto, a software engineer who is very fond in the technology world! A
 - 🤔 Always exploring new technologies and solutions to improve both my coding skills and critical thinking
 - 🎓 I have a degree of Computer Science & Engineering
 - 🌟 Currently working as a junior front-end developer
+- 💻 My front-end skills includes frameworks like Angular, Lit, React, etc! _(Javascript, Typescript, HTML, CSS)_
+- 🔧 My back-end skills are mainly focused on Spring! _(Java)_
+- 🔎 I also have coding skills in other languages like C++, C#, etc!
 - 🕹️ My hobbies also includes coding like developing games! ([Psst! Check out my itch.io](https://avi-ss.itch.io/))
 - 🌱 Everything is code. 
 
