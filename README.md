@@ -11,6 +11,10 @@ Hi, I'm Alberto, a software engineer who is very fond in the technology world! A
 - 🌟 Currently working as a junior front-end developer
 - 🌱 Everything is code. My hobbies also includes coding like developing games!
 
+### Top langs
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📫 You can always reach me here!
 
 <a href="https://www.linkedin.com/in/alberto-longo-g%C3%B3mez-6a5167232/">
