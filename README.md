@@ -6,10 +6,10 @@
 
 Hi, I'm Alberto, a software engineer who is very fond in the technology world! Also I'm very competitive ⌚ as I try to produce the best quality of code in the shortest possible time. I ❤️ every tech field but I am passionate about web app development, both on the Front-end & the Back-end.
 
-🤔 Always exploring new technologies and solutions to improve both my coding skills and critical thinking
-🎓 I have a degree of Computer Science & Engineering
-🌟 Currently working as a junior front-end developer
-🌱 Everything is code. My hobbies also includes coding like developing games!
+- 🤔 Always exploring new technologies and solutions to improve both my coding skills and critical thinking
+- 🎓 I have a degree of Computer Science & Engineering
+- 🌟 Currently working as a junior front-end developer
+- 🌱 Everything is code. My hobbies also includes coding like developing games!
 
 ### 📫 You can always reach me here!
 
@@ -17,4 +17,11 @@ Hi, I'm Alberto, a software engineer who is very fond in the technology world! A
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Alberto Longo Gómez's LinkedIn Profile" height="30" width="30">
 </a>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avi-ss&langs_count=10&theme=tokyonight&layout=compact" alt="Top Langs from avi-ss" /></p>
+<a href="https://twitter.com/avi_ss">
+    <img src="https://www.vectorlogo.es/wp-content/uploads/2019/07/logo-vector-twitter.jpg" alt="Alberto Longo Gómez's Twitter Profile" height="30" width="30">
+</a>
+
+<a href="https://github.com/avi-ss">
+    <img src="https://www.vectorlogo.es/wp-content/uploads/2020/09/logo-vector-github-mark-small-16-120pixels.jpg" alt="Alberto Longo Gómez's Twitter Profile" height="30" width="30">
+</a>
+
