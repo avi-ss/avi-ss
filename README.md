@@ -13,7 +13,7 @@ Hi, I'm Alberto, a software engineer who is very fond in the technology world! A
 
 ### Top langs
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avi-ss)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 You can always reach me here!
 
