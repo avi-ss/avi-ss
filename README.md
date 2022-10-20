@@ -18,10 +18,10 @@ Hi, I'm Alberto, a software engineer who is very fond in the technology world! A
 </a>
 
 <a href="https://twitter.com/avi_ss">
-    <img src="https://www.vectorlogo.es/wp-content/uploads/2019/07/logo-vector-twitter.jpg" alt="Alberto Longo Gómez's Twitter Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Alberto Longo Gómez's Twitter Profile" height="30" width="30">
 </a>
 
 <a href="https://github.com/avi-ss">
-    <img src="https://www.vectorlogo.es/wp-content/uploads/2020/09/logo-vector-github-mark-small-16-120pixels.jpg" alt="Alberto Longo Gómez's Twitter Profile" height="30" width="30">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Alberto Longo Gómez's Twitter Profile" height="30" width="30">
 </a>
 
