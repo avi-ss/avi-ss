@@ -1,6 +1,6 @@
 # Hi there, I'm Alberto! 👋
 
-#### I'm a meticulous & passionate software engineer! 🖥️💞
+## I'm a meticulous & passionate software engineer! 🖥️💞
 
 ### 💭 About me
 
